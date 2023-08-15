@@ -315,3 +315,8 @@ For a better analysis of the relationship between weather variables and Latitude
 
 <img src='WeatherPy/output_data/lat.wind.png' style ='width:700px;height:300px'/>
 
+
+
+
+
+### Supports: Slack AskBCS Learning Assistant/ Tutoring support
